@@ -1,6 +1,6 @@
 # 3dcartSampleCustomShippingServiceApp
 
-3dcartSampleCustomShippingServiceApp
+3dcart Sample Custom Shipping Service App
 
 
 This app is a sample application created by 3dCart simulating an independent shipping service app getting real-time shipping rates to be used on the 3dcart stores where this service is used.
